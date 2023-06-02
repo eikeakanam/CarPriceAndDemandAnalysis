@@ -1,4 +1,4 @@
-This project seeks to perform an exploratory analysis on car prices and demand in England, considering both pre and post Brexit periods, as well as different seasons. The primary objective is to uncover insights into the relationships among car prices, demand, and the impacts of Brexit and seasonal fluctuations.
+Objective: This project seeks to perform an exploratory analysis on car prices and demand in England, considering both pre and post Brexit periods, as well as different seasons. The primary objective is to uncover insights into the relationships among car prices, demand, and the impacts of Brexit and seasonal fluctuations.
 
 The project involves the following steps:
 Data Collection: Data was collected from Auto Trader for the years ending in 2022, encompassing various features such as Car Make, Model, condition, fuel type, body type, colour, registration code, year, and the target variable Price.
